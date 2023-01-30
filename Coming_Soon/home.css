@@ -1,8 +1,10 @@
 body
 {
-
+    height : 100vh;
+margin : auto;
     background: linear-gradient(180deg, #0B87C2 0%, #B7EDF9 100%);
     background-attachment: fixed;
+    border : 5px solid white;
 }
 
 .header{
